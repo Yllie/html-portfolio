@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+}
+div[id=h1]{
+    font-family: Libre Baskerville;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    text-transform: uppercase;
+}
+img{
+    width: 100%;
+}
+
+div[id=image]{
+    border: 5px solid white;
+    width: 50%;
+    margin-left: 25%;
+
+}
+
+div[id=paragraph]{
+    font-family: Libre Baskerville;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
